@@ -1,2 +1,2 @@
 # donau-radweg-2018
-Nézzed a wikit!
+[Katt ide a wikihez](https://github.com/AdamBelakovics/donau-radweg-2018/wiki)
